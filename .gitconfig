@@ -1,0 +1,23 @@
+[user]
+	name = Shota Tsukamoto
+	email = s-tsukamoto@tsgroup.jp
+[core]
+	excludesfile = /Users/osaka391/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[commit]
+	template = /Users/osaka391/.stCommitMsg
+[alias]
+	ba = branch -a
+	s = status
+	d = diff
+	a = add
+	c = commit
+	l = log
+	lg = log --graph
+[ghq]
+	root = /Users/osaka391/github.com
