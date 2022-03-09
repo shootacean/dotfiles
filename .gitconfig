@@ -1,0 +1,13 @@
+[user]
+	name = Shota Narisaka
+	email = shootacean@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
+[alias]
+	ba = branch -a
+	s = status
+	d = diff
+	a = add
+	c = commit
+	l = log
+	lg = log --graph
