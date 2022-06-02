@@ -4,8 +4,16 @@ if status is-interactive
 end
 
 # Path
+## Volta
 set VOLTA_HOME $HOME/.volta
 set PATH $VOLTA_HOME/bin $PATH
+
+## PHP
+set PATH /opt/homebrew/opt/php@7.3/bin $PATH
+set PATH /opt/homebrew/opt/php@7.3/sbin $PATH
+
+# Alias
+alias g="git"
 
 # peco
 function fish_user_key_bindings
