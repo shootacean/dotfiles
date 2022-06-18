@@ -12,9 +12,6 @@ set PATH $VOLTA_HOME/bin $PATH
 set PATH /opt/homebrew/opt/php@7.3/bin $PATH
 set PATH /opt/homebrew/opt/php@7.3/sbin $PATH
 
-# Alias
-alias g="git"
-
 # peco
 function fish_user_key_bindings
     bind \cr peco_select_history
