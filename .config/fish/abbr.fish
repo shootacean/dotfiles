@@ -16,6 +16,7 @@ abbr -a -U -- gm 'git merge'
 abbr -a -U -- gp 'git pull'
 abbr -a -U -- gps 'git push'
 abbr -a -U -- gs 'git status'
+abbr -a -U -- gst 'git stash'
 abbr -a -U -- gsw 'git switch -'
 
 # Other
