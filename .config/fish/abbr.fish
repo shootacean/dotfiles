@@ -7,6 +7,7 @@ abbr -a -U -- abp 'abbr | peco'
 # git
 abbr -a -U -- ga 'git add'
 abbr -a -U -- gb 'git branch'
+abbr -a -U -- gbg 'git branch -a | rg '
 abbr -a -U -- gc 'git cz'
 abbr -a -U -- gco 'git checkout'
 abbr -a -U -- gdf 'git diff'
