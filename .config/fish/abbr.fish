@@ -20,6 +20,9 @@ abbr -a -U -- gs 'git status'
 abbr -a -U -- gst 'git stash'
 abbr -a -U -- gsw 'git switch -'
 
+# github
+abbr -a -U -- ghprc 'gh pr create'
+
 # Other
 abbr -a -U -- c code
 abbr -a -U -- grep rg
