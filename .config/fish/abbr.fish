@@ -22,6 +22,7 @@ abbr -a -U -- gsw 'git switch -'
 
 # github
 abbr -a -U -- ghprc 'gh pr create'
+abbr -a -U -- ghprco 'gh pr checkout
 
 # Other
 abbr -a -U -- c code
