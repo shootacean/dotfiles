@@ -3,6 +3,12 @@
 # abbr
 abbr -a -U -- ab abbr
 abbr -a -U -- abp 'abbr | peco'
+abbr -a -U -- abs 'abbr -s'
+
+# homebrew
+abbr -a -U -- bi 'brew install'
+abbr -a -U -- bic 'brew install ==cask'
+abbr -a -U -- bs 'brew search'
 
 # git
 abbr -a -U -- ga 'git add'
@@ -22,10 +28,10 @@ abbr -a -U -- gsw 'git switch -'
 
 # github
 abbr -a -U -- ghprc 'gh pr create'
-abbr -a -U -- ghprco 'gh pr checkout
+abbr -a -U -- ghprco 'gh pr checkout'
+
 
 # Other
 abbr -a -U -- c code
 abbr -a -U -- grep rg
 abbr -a -U -- ls exa
-abbr -a -U -- nrd 'npm run dev'
