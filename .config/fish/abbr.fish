@@ -4,6 +4,7 @@
 abbr -a -U -- ab abbr
 abbr -a -U -- abp 'abbr | peco'
 abbr -a -U -- abs 'abbr -s'
+abbr -a -U -- absg 'abbr -s | grep '
 
 # homebrew
 abbr -a -U -- bi 'brew install'
@@ -16,7 +17,8 @@ abbr -a -U -- gb 'git branch'
 abbr -a -U -- gbg 'git branch -a | rg '
 abbr -a -U -- gc 'git cz'
 abbr -a -U -- gco 'git checkout'
-abbr -a -U -- gdf 'git diff'
+abbr -a -U -- gd 'git diff'
+abbr -a -U -- gds 'git diff --staged'
 abbr -a -U -- gfo 'git fetch origin -p'
 abbr -a -U -- gl 'git log'
 abbr -a -U -- glo 'git log --oneline'
