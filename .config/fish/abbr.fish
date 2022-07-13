@@ -8,7 +8,7 @@ abbr -a -U -- absg 'abbr -s | grep '
 
 # homebrew
 abbr -a -U -- bi 'brew install'
-abbr -a -U -- bic 'brew install ==cask'
+abbr -a -U -- bic 'brew install --cask'
 abbr -a -U -- bs 'brew search'
 
 # git
