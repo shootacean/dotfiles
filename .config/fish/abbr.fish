@@ -40,3 +40,4 @@ abbr -a -U -- ghprco 'gh pr checkout'
 abbr -a -U -- c code
 abbr -a -U -- grep rg
 abbr -a -U -- ls exa
+abbr -a -U -- nl nslookup
