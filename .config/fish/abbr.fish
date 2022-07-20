@@ -35,8 +35,8 @@ abbr -a -U -- gsw 'git switch -'
 abbr -a -U -- ghprc 'gh pr create'
 abbr -a -U -- ghprco 'gh pr checkout'
 
-
 # Other
+abbr -a -U -- t tig
 abbr -a -U -- c code
 abbr -a -U -- grep rg
 abbr -a -U -- ls exa
