@@ -30,6 +30,7 @@ abbr -a -U -- grs 'git restore --staged'
 abbr -a -U -- gs 'git status'
 abbr -a -U -- gst 'git stash'
 abbr -a -U -- gsw 'git switch -'
+abbr -a -U -- gt 'git tag'                                                                                       
 
 # github
 abbr -a -U -- ghprc 'gh pr create'
