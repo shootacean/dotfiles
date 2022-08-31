@@ -36,6 +36,11 @@ abbr -a -U -- gt 'git tag'
 abbr -a -U -- ghprc 'gh pr create'
 abbr -a -U -- ghprco 'gh pr checkout'
 
+# Zenn
+abbr -a -U -- zb 'npx zenn new:book'
+abbr -a -U -- zc 'npx zenn new:article'
+abbr -a -U -- zp 'npx zenn preview --open'
+
 # Other
 abbr -a -U -- t tig
 abbr -a -U -- c code
