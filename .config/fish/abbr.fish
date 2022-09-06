@@ -10,6 +10,7 @@ abbr -a -U -- absg 'abbr -s | grep '
 abbr -a -U -- bi 'brew install'
 abbr -a -U -- bic 'brew install --cask'
 abbr -a -U -- bs 'brew search'
+abbr -a -U -- bu 'brew update'
 
 # git
 abbr -a -U -- ga 'git add'
