@@ -37,6 +37,10 @@ abbr -a -U -- gt 'git tag'
 abbr -a -U -- ghprc 'gh pr create'
 abbr -a -U -- ghprco 'gh pr checkout'
 
+# Firebase
+abbr -a -U -- f firebase
+abbr -a -U -- fdh 'firebase deploy --only hosting'
+
 # Zenn
 abbr -a -U -- zb 'npx zenn new:book'
 abbr -a -U -- zc 'npx zenn new:article'
