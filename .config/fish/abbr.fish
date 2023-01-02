@@ -34,7 +34,9 @@ abbr -a -U -- gsw 'git switch -'
 abbr -a -U -- gt 'git tag'                                                                                       
 
 # github
-abbr -a -U -- ghprc 'gh pr create'
+abbr -a -U -- ghb 'gh browse'
+abbr -a -U -- ghc 'gh repo clone'
+abbr -a -U -- ghprco 'gh pr checkout'
 abbr -a -U -- ghprco 'gh pr checkout'
 
 # Firebase
