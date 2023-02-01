@@ -47,6 +47,7 @@ brew "peco"
 brew "pnpm", link: false
 brew "ripgrep"
 brew "ripgrep-all"
+brew "sqlc"
 brew "tig"
 brew "tmux"
 brew "volta"
